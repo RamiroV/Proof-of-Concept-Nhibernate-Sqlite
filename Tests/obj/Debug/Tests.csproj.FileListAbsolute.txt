@@ -1,0 +1,23 @@
+C:\Users\ramiro\documents\visual studio 2012\Projects\Prueba Nhibernate\Tests\bin\Debug\hibernate.cfg.xml
+C:\Users\ramiro\documents\visual studio 2012\Projects\Prueba Nhibernate\Tests\bin\Debug\Tests.dll
+C:\Users\ramiro\documents\visual studio 2012\Projects\Prueba Nhibernate\Tests\bin\Debug\Tests.pdb
+C:\Users\ramiro\documents\visual studio 2012\Projects\Prueba Nhibernate\Tests\bin\Debug\Faker.NET4.dll
+C:\Users\ramiro\documents\visual studio 2012\Projects\Prueba Nhibernate\Tests\bin\Debug\NHibernate.dll
+C:\Users\ramiro\documents\visual studio 2012\Projects\Prueba Nhibernate\Tests\bin\Debug\Prueba Nhibernate.exe
+C:\Users\ramiro\documents\visual studio 2012\Projects\Prueba Nhibernate\Tests\bin\Debug\System.Data.SQLite.dll
+C:\Users\ramiro\documents\visual studio 2012\Projects\Prueba Nhibernate\Tests\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\ramiro\documents\visual studio 2012\Projects\Prueba Nhibernate\Tests\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\ramiro\documents\visual studio 2012\Projects\Prueba Nhibernate\Tests\bin\Debug\Iesi.Collections.dll
+C:\Users\ramiro\documents\visual studio 2012\Projects\Prueba Nhibernate\Tests\bin\Debug\EntityFramework.dll
+C:\Users\ramiro\documents\visual studio 2012\Projects\Prueba Nhibernate\Tests\bin\Debug\Prueba Nhibernate.pdb
+C:\Users\ramiro\documents\visual studio 2012\Projects\Prueba Nhibernate\Tests\bin\Debug\NHibernate.xml
+C:\Users\ramiro\documents\visual studio 2012\Projects\Prueba Nhibernate\Tests\bin\Debug\System.Data.SQLite.xml
+C:\Users\ramiro\documents\visual studio 2012\Projects\Prueba Nhibernate\Tests\bin\Debug\Iesi.Collections.xml
+C:\Users\ramiro\documents\visual studio 2012\Projects\Prueba Nhibernate\Tests\bin\Debug\EntityFramework.xml
+C:\Users\ramiro\documents\visual studio 2012\Projects\Prueba Nhibernate\Tests\bin\Debug\de-DE\Faker.NET4.resources.dll
+C:\Users\ramiro\documents\visual studio 2012\Projects\Prueba Nhibernate\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+C:\Users\ramiro\documents\visual studio 2012\Projects\Prueba Nhibernate\Tests\obj\Debug\Tests.dll
+C:\Users\ramiro\documents\visual studio 2012\Projects\Prueba Nhibernate\Tests\obj\Debug\Tests.pdb
+C:\Users\ramiro\documents\visual studio 2012\Projects\Prueba Nhibernate\Tests\bin\Debug\Tests.dll.config
+C:\Users\ramiro\documents\visual studio 2012\Projects\Prueba Nhibernate\Tests\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ramiro\documents\visual studio 2012\Projects\Prueba Nhibernate\Tests\bin\Debug\EntityFramework.SqlServer.xml
